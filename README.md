@@ -1,4 +1,4 @@
 #MOOCSent
 This is MOOCSent (a sentiment predictor for open online massive courses) repository for ISD2021
-![CHEESE!]([https://ibb.co/jWb61TL](https://i.ibb.co/MGZ23sR/Sentiment-1024x576-1.jpg))
+![CHEESE!](https://i.postimg.cc/05cZYtdC/Screenshot-2022-09-27-at-6-05-10-pm.png)
 further details plus the model will be uploaded soon. 
